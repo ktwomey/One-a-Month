@@ -1,2 +1,2 @@
-One-a-Month
+One a Month
 ===========
